@@ -1,0 +1,593 @@
+Crie uma landing page profissional e altamente focada em conversão para uma empresa de ESTÉTICA AUTOMOTIVA.
+
+OBJETIVO PRINCIPAL:
+O objetivo da página é fazer o visitante escolher um serviço e entrar em contato pelo WhatsApp.
+
+A experiência deve ser extremamente simples:
+1. Cliente entra na landing page.
+2. Visualiza os serviços e benefícios.
+3. Escolhe o serviço que deseja.
+4. Clica em "QUERO AGENDAR" ou "FAZER ORÇAMENTO".
+5. O WhatsApp abre automaticamente.
+6. A mensagem do WhatsApp já vem preenchida de acordo com o serviço escolhido.
+7. O atendente recebe uma mensagem clara, sabendo exatamente qual serviço o cliente deseja.
+
+IMPORTANTE:
+Não usar um único botão genérico de WhatsApp.
+Cada serviço deve gerar uma mensagem diferente.
+
+==================================================
+IDENTIDADE VISUAL
+==================================================
+
+Criar uma estética premium, moderna e automotiva.
+
+Visual:
+- Fundo predominantemente escuro
+- Preto/grafite
+- Branco para textos
+- Detalhes em vermelho ou amarelo para chamadas de ação
+- Alto contraste
+- Cards modernos
+- Bordas discretamente arredondadas
+- Sombras suaves
+- Ícones automotivos minimalistas
+- Imagens grandes de veículos extremamente limpos e detalhados
+- Aparência de empresa profissional de detalhamento automotivo
+
+A página deve transmitir:
+- confiança
+- qualidade
+- cuidado
+- acabamento premium
+- profissionalismo
+- praticidade
+
+Ser totalmente responsiva para:
+- celular
+- tablet
+- desktop
+
+Priorizar a experiência mobile.
+
+==================================================
+HERO / PRIMEIRA DOBRA
+==================================================
+
+Criar uma primeira seção extremamente forte.
+
+Headline:
+
+"SEU CARRO MERECE MAIS QUE UMA LAVAGEM."
+
+Subheadline:
+
+"Estética automotiva profissional para devolver brilho, proteção e acabamento ao seu veículo."
+
+CTA principal:
+
+"QUERO DEIXAR MEU CARRO IMPECÁVEL"
+
+Ao clicar:
+abrir WhatsApp com:
+
+"Olá! Vi o site da estética automotiva e gostaria de deixar meu carro impecável. Gostaria de saber quais opções vocês recomendam."
+
+Adicionar CTA secundário:
+
+"VER SERVIÇOS"
+
+que leva para a seção de serviços.
+
+Adicionar elementos visuais mostrando:
+- antes e depois
+- brilho da pintura
+- interior detalhado
+- rodas limpas
+- acabamento profissional
+
+==================================================
+SEÇÃO DE GATILHOS
+==================================================
+
+Criar uma seção logo abaixo do Hero com o título:
+
+"QUAL É O SEU OBJETIVO?"
+
+Criar 4 cards:
+
+1. "QUERO RECUPERAR O BRILHO"
+Texto:
+"Seu carro perdeu aquele brilho de quando era novo?"
+
+Botão:
+"QUERO RECUPERAR"
+
+WhatsApp:
+
+"Olá! Quero recuperar o brilho do meu carro. Gostaria de saber quais serviços vocês recomendam."
+
+2. "QUERO PROTEGER A PINTURA"
+
+Texto:
+"Proteja a pintura contra sujeira, manchas e desgaste."
+
+Botão:
+"QUERO PROTEGER"
+
+WhatsApp:
+
+"Olá! Tenho interesse em proteger a pintura do meu carro. Gostaria de conhecer as opções disponíveis."
+
+3. "QUERO DEIXAR O INTERIOR NOVO"
+
+Texto:
+"Limpeza e detalhamento para transformar o interior do veículo."
+
+Botão:
+"QUERO FAZER"
+
+WhatsApp:
+
+"Olá! Tenho interesse em fazer uma limpeza/detalhamento interno no meu carro. Gostaria de saber os valores e horários disponíveis."
+
+4. "QUERO VENDER MEU CARRO"
+
+Texto:
+"Valorize a apresentação do veículo antes de anunciar."
+
+Botão:
+"QUERO VALORIZAR"
+
+WhatsApp:
+
+"Olá! Quero preparar meu carro para venda e gostaria de saber quais serviços vocês recomendam."
+
+==================================================
+SEÇÃO DE SERVIÇOS
+==================================================
+
+Criar cards individuais para cada serviço.
+
+Cada card deve possuir:
+
+- Foto
+- Nome do serviço
+- Pequena descrição
+- Benefícios
+- Preço ou "A partir de"
+- Botão específico
+
+SERVIÇO 1:
+
+"LAVAGEM CONVENCIONAL"
+
+Descrição:
+"Limpeza externa completa para manter seu veículo sempre bem cuidado."
+
+Botão:
+"QUERO AGENDAR"
+
+Mensagem WhatsApp:
+
+"Olá! Tenho interesse na Lavagem Convencional. Gostaria de saber os horários disponíveis para agendamento."
+
+--------------------------------------------------
+
+SERVIÇO 2:
+
+"LAVAGEM COMPLETA"
+
+Descrição:
+"Limpeza mais detalhada para deixar o veículo com aparência renovada."
+
+Botão:
+"QUERO AGENDAR"
+
+Mensagem:
+
+"Olá! Tenho interesse na Lavagem Completa. Gostaria de saber o valor e os horários disponíveis."
+
+--------------------------------------------------
+
+SERVIÇO 3:
+
+"DETALHAMENTO AUTOMOTIVO"
+
+Descrição:
+"Um cuidado completo para quem busca acabamento superior."
+
+Botão:
+
+"QUERO DETALHAMENTO"
+
+Mensagem:
+
+"Olá! Tenho interesse no Detalhamento Automotivo. Gostaria de receber informações sobre valores e disponibilidade."
+
+--------------------------------------------------
+
+SERVIÇO 4:
+
+"POLIMENTO"
+
+Descrição:
+"Tratamento da pintura para melhorar brilho, acabamento e aparência."
+
+Botão:
+
+"QUERO POLIMENTO"
+
+Mensagem:
+
+"Olá! Tenho interesse em fazer Polimento no meu veículo. Gostaria de saber como funciona a avaliação e o orçamento."
+
+--------------------------------------------------
+
+SERVIÇO 5:
+
+"VITRIFICAÇÃO"
+
+Descrição:
+"Proteção avançada para a pintura com acabamento de alto brilho."
+
+Botão:
+
+"QUERO VITRIFICAÇÃO"
+
+Mensagem:
+
+"Olá! Tenho interesse em Vitrificação Automotiva. Gostaria de saber as opções, valores e disponibilidade."
+
+--------------------------------------------------
+
+SERVIÇO 6:
+
+"POLIMENTO DE FARÓIS"
+
+Descrição:
+
+"Recupere a aparência dos faróis e melhore o acabamento visual do veículo."
+
+Botão:
+
+"QUERO RECUPERAR"
+
+Mensagem:
+
+"Olá! Tenho interesse no Polimento de Faróis. Gostaria de saber o valor e como funciona o serviço."
+
+--------------------------------------------------
+
+SERVIÇO 7:
+
+"HIGIENIZAÇÃO INTERNA"
+
+Descrição:
+
+"Limpeza profunda do interior para renovar bancos, carpetes e acabamentos."
+
+Botão:
+
+"QUERO HIGIENIZAÇÃO"
+
+Mensagem:
+
+"Olá! Tenho interesse na Higienização Interna do veículo. Gostaria de saber o valor e a disponibilidade."
+
+==================================================
+SEÇÃO "POR QUE FAZER AQUI?"
+==================================================
+
+Título:
+
+"MAIS QUE LIMPEZA. É CUIDADO COM SEU CARRO."
+
+Criar 4 benefícios:
+
+✓ Atendimento profissional
+✓ Produtos específicos para cada superfície
+✓ Acabamento detalhado
+✓ Agendamento rápido pelo WhatsApp
+
+Adicionar gatilho:
+
+"Seu carro passa por uma avaliação para identificar o serviço mais adequado."
+
+CTA:
+
+"QUERO AVALIAR MEU CARRO"
+
+WhatsApp:
+
+"Olá! Gostaria de fazer uma avaliação do meu carro para saber qual serviço é mais indicado."
+
+==================================================
+SEÇÃO ANTES E DEPOIS
+==================================================
+
+Criar uma galeria visual de antes/depois.
+
+Categorias:
+
+- Pintura
+- Bancos
+- Painel
+- Rodas
+- Faróis
+- Detalhamento externo
+
+Adicionar CTA abaixo:
+
+"QUERO ESSE RESULTADO NO MEU CARRO"
+
+WhatsApp:
+
+"Olá! Vi os resultados no site e gostaria de saber qual serviço é indicado para deixar meu carro nesse nível."
+
+==================================================
+SEÇÃO DE OFERTA
+==================================================
+
+Criar uma seção visualmente chamativa:
+
+"QUAL SERVIÇO SEU CARRO PRECISA HOJE?"
+
+Adicionar opções:
+
+[ LAVAGEM ]
+[ DETALHAMENTO ]
+[ POLIMENTO ]
+[ HIGIENIZAÇÃO ]
+[ VITRIFICAÇÃO ]
+[ FARÓIS ]
+
+Cada botão deve abrir o WhatsApp com uma mensagem correspondente.
+
+==================================================
+BOTÃO FLUTUANTE DO WHATSAPP
+==================================================
+
+Adicionar botão flutuante no canto inferior direito.
+
+Texto:
+
+"FALAR NO WHATSAPP"
+
+Ao clicar, abrir:
+
+"Olá! Vim pelo site e gostaria de saber qual serviço é mais indicado para o meu carro."
+
+Usar link:
+
+https://wa.me/SEUNUMERO?text=MENSAGEM
+
+Substituir SEUNUMERO pelo número configurado no projeto.
+
+IMPORTANTE:
+Codificar corretamente os espaços e caracteres da mensagem usando URL encoding.
+
+==================================================
+SISTEMA DE MENSAGENS
+==================================================
+
+Criar uma função centralizada para gerar os links do WhatsApp.
+
+Exemplo lógico:
+
+service = "Detalhamento Automotivo"
+
+message =
+"Olá! Tenho interesse no Detalhamento Automotivo. Gostaria de receber informações sobre valores e disponibilidade."
+
+whatsappURL =
+"https://wa.me/SEUNUMERO?text=" + encodeURIComponent(message)
+
+Cada botão deve chamar essa função passando o serviço correspondente.
+
+Não duplicar código desnecessariamente.
+
+==================================================
+MICROCONVERSÃO
+==================================================
+
+Antes de enviar para o WhatsApp, permitir opcionalmente que o usuário selecione:
+
+"Qual veículo você possui?"
+
+Opções:
+
+- Carro
+- SUV
+- Picape
+- Moto
+
+E:
+
+"Qual é a situação do veículo?"
+
+- Apenas manutenção
+- Está muito sujo
+- Quero recuperar a pintura
+- Quero preparar para venda
+- Quero proteger
+- Não sei qual serviço escolher
+
+Depois montar automaticamente uma mensagem:
+
+"Olá! Vim pelo site.
+
+Veículo: SUV
+Objetivo: Quero recuperar a pintura
+Serviço de interesse: Polimento
+
+Gostaria de saber valores e disponibilidade."
+
+Botão:
+
+"CONTINUAR NO WHATSAPP"
+
+==================================================
+PROVA SOCIAL
+==================================================
+
+Criar seção:
+
+"QUEM CUIDA, PERCEBE A DIFERENÇA."
+
+Adicionar avaliações fictícias apenas como placeholders editáveis.
+
+IMPORTANTE:
+Deixar claramente estruturado para que o proprietário possa substituir pelos depoimentos reais dos clientes.
+
+==================================================
+FAQ
+==================================================
+
+Perguntas:
+
+"Preciso agendar?"
+"Quanto tempo demora o serviço?"
+"Vocês atendem SUVs e picapes?"
+"Posso enviar fotos do veículo pelo WhatsApp?"
+"Como funciona o orçamento?"
+"Quais formas de pagamento vocês aceitam?"
+
+Respostas curtas e objetivas.
+
+==================================================
+CTA FINAL
+==================================================
+
+Criar uma seção final forte:
+
+"PRONTO PARA DAR OUTRA APARÊNCIA AO SEU CARRO?"
+
+Texto:
+
+"Escolha o serviço ou fale diretamente com nossa equipe pelo WhatsApp."
+
+Botão:
+
+"FALAR COM ESPECIALISTA"
+
+Mensagem:
+
+"Olá! Vim pelo site e gostaria de receber uma recomendação de serviço para o meu veículo."
+
+==================================================
+REGRAS DE CONVERSÃO
+==================================================
+
+A página deve ter vários pontos de entrada para o WhatsApp.
+
+Não utilizar apenas um CTA no final.
+
+Distribuir CTAs em:
+
+- Hero
+- Cards de objetivos
+- Cada serviço
+- Antes/depois
+- Benefícios
+- Oferta
+- CTA final
+- Botão flutuante
+
+Cada CTA deve ter uma mensagem contextualizada.
+
+Evitar mensagens genéricas como:
+
+"Olá, quero saber mais."
+
+Preferir:
+
+"Olá! Tenho interesse no Polimento e gostaria de saber o valor e a disponibilidade."
+
+Isso deve facilitar o atendimento e permitir que o vendedor saiba imediatamente o motivo do contato.
+
+==================================================
+TRACKING
+==================================================
+
+Preparar a estrutura para futuramente integrar:
+
+- Google Analytics
+- Meta Pixel
+- Google Tag Manager
+
+Criar eventos separados para cada clique:
+
+whatsapp_hero
+whatsapp_lavagem
+whatsapp_detalhamento
+whatsapp_polimento
+whatsapp_vitrificacao
+whatsapp_higienizacao
+whatsapp_farois
+whatsapp_final
+
+Também registrar:
+
+- serviço selecionado
+- dispositivo
+- origem do visitante
+- página/CTA de origem
+
+Não implementar dados pessoais desnecessários.
+
+==================================================
+ADMIN / CONFIGURAÇÃO
+==================================================
+
+Criar um arquivo/configuração central para editar facilmente:
+
+- Nome da empresa
+- Número do WhatsApp
+- Endereço
+- Horário
+- Instagram
+- Serviços
+- Preços
+- Descrições
+- Fotos
+- Cores
+- Mensagens do WhatsApp
+
+O proprietário deve conseguir alterar o número do WhatsApp em apenas um lugar.
+
+==================================================
+REQUISITOS TÉCNICOS
+==================================================
+
+Código organizado e profissional.
+
+Separar:
+
+/components
+/pages
+/assets
+/images
+/config
+/utils
+
+Criar função reutilizável:
+
+generateWhatsAppLink(service, vehicle, objective)
+
+Garantir:
+
+- responsividade
+- carregamento rápido
+- SEO básico
+- acessibilidade
+- botões grandes no celular
+- animações leves
+- navegação suave
+- links do WhatsApp funcionando corretamente
+- encodeURIComponent nas mensagens
+- nenhum botão quebrado
+
+A prioridade absoluta do projeto é:
+
+VISUAL PROFISSIONAL + CONFIANÇA + CONVERSÃO PARA WHATSAPP.

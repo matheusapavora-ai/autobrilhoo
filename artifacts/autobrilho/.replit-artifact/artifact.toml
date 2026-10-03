@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "AutoBrilho Estética Automotiva"
+description = "Página institucional e de orçamento para a AutoBrilho, estética automotiva em Ponta Grossa, com serviços selecionáveis e informações interativas."
+version = "1.0.0"
+id = "artifacts/autobrilho"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21739
+
+[services.development]
+run = "pnpm --filter @workspace/autobrilho run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/autobrilho", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/autobrilho/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21739"
+BASE_PATH = "/"
